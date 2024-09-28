@@ -1,0 +1,50 @@
+አማርኛ → B-LANGUAGE
+እንግሊዝኛ → B-LANGUAGE
+ዮና → B-PERSON
+ስም → I-PERSON
+የውሃ አሳይ → B-ORG
+የዓለም ጨዋታ → B-EVENT
+ግርግር → B-LOC
+ኢትዮጵያ → B-LOC
+ቤተሰብ → B-FAMILY
+ኦርቶዶካስ → B-ORG
+ዕለት → B-DATE
+እንቅስቃሴ → I-DATE
+ወንድ → B-ORG
+ሴት → B-GENDER
+ደቂቀ ንጉስ → B-GENDER
+ማዕከል → B-PERSON
+ወንዌል → B-ORG
+በሉቀ → B-ORG
+20 → B-QUANTITY
+ኪሎ → B-MONEY
+ገንዘብ → B-MONEY
+500 → B-ORG
+ማቅረብ → B-ORG
+እንቁላል → B-PERCENT
+ወታደር → B-DATE
+ወታደርነት → B-DATE
+ዋጋ → B-EVENT
+50 → B-ORG
+% → B-ORG
+ሰንበት → B-PERSON
+ተማሪ → B-QUANTITY
+እንቁላል → B-ORG
+የቅዱስ ወይዘር → B-QUANTITY
+አምላክ → B-DATE
+ዓለም → B-LOC
+ነገ → B-EVENT
+ታሪክ → B-LOC
+ምን → B-LOC
+ዓለም → B-EVENT
+ወቅታዊ → B-LOC
+ጉብኝት → B-DATE
+ተወካይ → B-ORG
+አሰባሳት → B-ORG
+ደህንነት → B-QUANTITY
+አሳያ → B-MONEY
+እረፍታ → B-ORG
+ወገን → B-DATE
+ግንባር → B-DATE
+አቅም → B-DATE
+ሂወት → B-LOC

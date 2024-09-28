@@ -1,0 +1,14 @@
+# Python files
+*.pyc
+__pycache__/
+# Credentials and secrets
+config/credentials.py
+# Logs
+logs/
+# Virtual environments
+myvenv/
+.env/
+
+# Data files
+data/raw/
+data/processed/
